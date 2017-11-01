@@ -21,7 +21,7 @@ vendor/bundle
 /yarn-error.log
 
 .byebug_history
-
+/spring/*.pid
 # Ignore other unneeded files.
 doc/
 .swp ~
