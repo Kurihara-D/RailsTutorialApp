@@ -2,7 +2,8 @@
 @import "bootstrap";
 
 body {
-  padding-top: 60px;
+  margin-top: 1%;
+  padding: 3%;
 }
 
 section {
@@ -60,6 +61,10 @@ p {
     color: #44c1ff;
     text-decoration: none;
   }
+}
+
+.container {
+  width: 100%;
 }
 
 /* footer */
